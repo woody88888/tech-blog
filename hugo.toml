@@ -1,0 +1,14 @@
+theme = "PaperMod"
+baseURL = "https://woody88888.github.io/tech-blog/"
+title = "Woody 的技术博客"
+languageCode = "zh-cn"
+
+[params]
+  description = "记录技术思考与分享"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 1
